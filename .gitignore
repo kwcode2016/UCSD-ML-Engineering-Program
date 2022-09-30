@@ -1,0 +1,5 @@
+
+# ignore .env file (Sensitive API keys)
+.env
+.ipynb_checkpoints/
+api_data_wrangling_mini_project (non request).ipynb
